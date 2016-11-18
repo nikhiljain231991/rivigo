@@ -1,0 +1,144 @@
+body{
+    padding:10px;
+    background-color: #23364B;
+}
+
+.show-on-hover:hover > ul.dropdown-menu {
+    display: block;    
+}
+
+.header-logo {
+    font-size: 20px;
+    padding: 16px;
+    color: #A0B6C3;
+    font-weight: bold;
+}
+
+.header {
+	background-color: #F1F4F6;
+	padding: 0px 200px;
+}
+
+.notification-icon{
+	font-size: 20px;
+    padding: 20px;
+    color: #A0B6C3;
+    font-weight: bold;
+    cursor: pointer;
+    width: 50px;
+}
+
+.notification-circle{
+	width: 14px;
+    height: 14px;
+    line-height: 14px;
+    background-color: #71c8e2;
+    color: #F1F4F6;
+    text-align: center;
+    font-weight: bold;
+    font-size: 9px;
+    position: fixed;
+    border-radius: 10px;
+    margin-top: -25px;
+    margin-left: 9px;
+}
+
+.notification-circle-big{
+	width: 20px;
+    height: 20px;
+    line-height: 22px;
+    background-color: #71c8e2;
+    color: #F1F4F6;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+    border-radius: 10px;
+    margin-top: 17px;
+    margin-left: 7px;
+}
+
+.notification-panel{
+	width: 260px;
+	max-height: 275px;
+    background-color: #d4e2ec;
+    color: #445868;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: -101px;
+    transition: all 250ms ease-out;
+  	opacity:0;
+  }
+
+.transitionClass{
+	opacity:1;    
+}
+
+.notification-header{
+	background-color: #F1F4F6;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    color: #445868;
+    font-weight: bold;
+    font-size: 16px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 260px;
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-bottom: 14px solid #F1F4F6;
+    margin-left: 118px;
+    position: absolute;
+    margin-top: -14px;}
+
+.notification-header-text{
+	margin-left: 70px;	
+}
+
+.float-left{
+	float: left;
+}
+
+.notifications-box{
+	max-height: 220px;
+	overflow: auto;
+	float: left;
+    width: 260px;
+}
+
+.notifications-inner-box{
+	padding: 8px;
+	border-top: 1px solid #cad4da;
+	font-size: 14px;
+	color: #445868;
+	height: 55px;
+}
+
+.notification-image{
+	width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 1px;
+    float: left;
+}
+
+.notification-content{
+	font-size: 12px;
+    margin: 4px 10px;
+    float: left;
+    width: 163px;
+    font-style: italic;
+}
+
+.emptyNotification{
+	font-style: italic;
+	text-align: center;
+	font-size: 14px;
+	line-height: 40px;
+}

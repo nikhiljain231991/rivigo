@@ -1,0 +1,74 @@
+[
+	{
+		"id" : "1",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "Lorem Ipsum is simply dummy text of the printing."
+	},
+	{
+		"id" : "2",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "standard dummy text ever since the 1500s."
+	},
+	{
+		"id" : "3",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "Many desktop publishing packages and web page."
+	},
+	{
+		"id" : "4",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "There are many variations of passages."
+	},
+	{
+		"id" : "5",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "If you are going to use a passage of Lorem Ipsum."
+	},
+	{
+		"id" : "6",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "Professor at Hampden-Sydney College in Virginia."
+	},
+	{
+		"id" : "7",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "The cites of the word in classical literature, discovered"
+	},
+	{
+		"id" : "8",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "All the Lorem Ipsum generators on the Internet tend to repeat."
+	},
+	{
+		"id" : "9",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "predefined chunks as necessary, making this the first true."
+	},
+	{
+		"id" : "10",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "The generated Lorem Ipsum is therefore."
+	},
+	{
+		"id" : "11",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "Always free from repetition."
+	},
+	{
+		"id" : "12",
+		"imageURL" : "images/default.jpg",
+		"name" : "Nikhil",
+		"notification" : "Lorem Ipsum used since."
+	}
+]
