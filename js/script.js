@@ -20,7 +20,11 @@ function showNotifications(){
 	$(".notification-panel").addClass("transitionClass");
 	$(".notifications-box").html("");
 	notificationCounter = 1;
-	var notifications = JSON.parse(localStorage.getItem("notifications"));
+	if(localStorage.getItem("notifications")){
+		var notifications = JSON.parse(localStorage.getItem("notifications"));
+	}else{
+		var notifications = [];
+	}
 	if(notificationSeen==0){
 		notificationSeen=1;
 		$(".notification-circle").html(notifications.length);
